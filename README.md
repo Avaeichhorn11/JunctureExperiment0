@@ -26,7 +26,7 @@ Did you know that _elephants_ can spend up to 18 hours eating and grazing. With 
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       url="(https://upload.wikimedia.org/wikipedia/commons/a/a6/Elephant_in_Kerala_with_Pappan.JPG)">
 
 ## Map
 
