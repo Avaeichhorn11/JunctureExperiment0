@@ -23,7 +23,7 @@ Did you know that a [baby elephants](https://upload.wikimedia.org/wikipedia/comm
 
 Did you know that _elephants_ can spend up to 18 hours eating and grazing. With that, they eat about 330 pounds of food daily and the elephants themselves can weight over 6.6 tons. [^1]
 <param ve-image 
-       label="Girl with a Pearl Earring" 
+       label="Elephants" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
        url="(https://upload.wikimedia.org/wikipedia/commons/a/a6/Elephant_in_Kerala_with_Pappan.JPG)">
