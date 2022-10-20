@@ -15,7 +15,7 @@
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
 # BABY ELEPHANTS
-Did you know that a "baby elephants"(https://upload.wikimedia.org/wikipedia/commons/d/da/African_bush_elephant%2C_Loxodonta_africana_at_Punda_Maria%2C_Kruger_National_Park%2C_South_Africa._Includes_lots_of_baby_elephant._%2820786182251%29.jpg) can weight up to 260 pounds. Also, almost all baby elephants are born during the night. This is probably due to the fact that they are less likely to be found by predators.
+Did you know that a [baby elephants](https://upload.wikimedia.org/wikipedia/commons/d/da/African_bush_elephant%2C_Loxodonta_africana_at_Punda_Maria%2C_Kruger_National_Park%2C_South_Africa._Includes_lots_of_baby_elephant._%2820786182251%29.jpg) can weight up to 260 pounds. Also, almost all baby elephants are born during the night. This is probably due to the fact that they are less likely to be found by predators.
        
 # SOME FUN FACTS
 
