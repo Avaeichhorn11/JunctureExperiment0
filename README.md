@@ -15,8 +15,7 @@
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
 # ELEPHANTS IN ALL OF THEIR GLORY
-Did you know that a [baby elephants](https://upload.wikimedia.org/wikipedia/commons/d/da/African_bush_elephant%2C_Loxodonta_africana_at_Punda_Maria%2C_Kruger_National_Park%2C_South_Africa._Includes_lots_of_baby_elephant._%2820786182251%29.jpg) can weight up to 260 pounds. and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
-<param ve-image 
+Did you know that a [baby elephants](https://upload.wikimedia.org/wikipedia/commons/d/da/African_bush_elephant%2C_Loxodonta_africana_at_Punda_Maria%2C_Kruger_National_Park%2C_South_Africa._Includes_lots_of_baby_elephant._%2820786182251%29.jpg) can weight up to 260 pounds. Also, almost all baby elephants are born during the night. This is probably due to the fact that they are less likely to be found by predators.
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
 # Basic usage
