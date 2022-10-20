@@ -15,15 +15,13 @@
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
 # BABY ELEPHANTS
-Did you know that a _baby elephants_(https://upload.wikimedia.org/wikipedia/commons/d/da/African_bush_elephant%2C_Loxodonta_africana_at_Punda_Maria%2C_Kruger_National_Park%2C_South_Africa._Includes_lots_of_baby_elephant._%2820786182251%29.jpg) can weight up to 260 pounds. Also, almost all baby elephants are born during the night. This is probably due to the fact that they are less likely to be found by predators.
+Did you know that a "baby elephants"(https://upload.wikimedia.org/wikipedia/commons/d/da/African_bush_elephant%2C_Loxodonta_africana_at_Punda_Maria%2C_Kruger_National_Park%2C_South_Africa._Includes_lots_of_baby_elephant._%2820786182251%29.jpg) can weight up to 260 pounds. Also, almost all baby elephants are born during the night. This is probably due to the fact that they are less likely to be found by predators.
        
-# ADULT ELEPHANTS
+# SOME FUN FACTS
 
-## Fun Facts
+## :)
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
+Did you know that _elephants_ can spend up to 18 hours eating and grazing. With that, they eat about 330 pounds of food daily and the elephants themselves can weight over 6.6 tons. [^1]
 <param ve-image 
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
