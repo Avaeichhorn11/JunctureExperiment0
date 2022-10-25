@@ -37,7 +37,7 @@ Most of the elephant population is found in eastern and sounthern Africa,specifi
 
 Elephants are that largest living animals on Earth. 
 <param ve-image 
-       manifest="[https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c]">
+       manifest="(https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg)]">
 <param ve-map center="Q36600" zoom="11">
 
 # References
