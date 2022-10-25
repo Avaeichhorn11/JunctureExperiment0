@@ -33,12 +33,11 @@ Did you know that _elephants_ can spend up to 18 hours eating and grazing. With 
 Most of the elephant population is found in eastern and sounthern Africa,specifically, Botswana, Zimbabwe, Kenya, Tanzania, Zambia, South Africa, Angola, Namibia, Rwanda, Mozambique, and Ethiopia.
 <param ve-map center="-29.046185 N, 25.06288 E" zoom="5" prefer-geojson>
 
-## Multiple viewers
+## Finale
 
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
+Elephants are that largest living animals on Earth. 
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+       manifest="[https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c](https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg)">
 <param ve-map center="Q36600" zoom="11">
 
 # References
