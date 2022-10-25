@@ -30,7 +30,7 @@ Did you know that _elephants_ can spend up to 18 hours eating and grazing. With 
 
 ## Map
 
-Most of the elephant population is found in eastern and sounthern Africa.
+Most of the elephant population is found in eastern and sounthern Africa,specifically, Botswana, Zimbabwe, Kenya, Tanzania, Zambia, South Africa, Angola, Namibia, Rwanda, Mozambique, and Ethiopia.
 <param ve-map center="-29.046185 N, 25.06288 E" zoom="5" prefer-geojson>
 
 ## Multiple viewers
