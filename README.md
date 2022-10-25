@@ -30,8 +30,7 @@ Did you know that _elephants_ can spend up to 18 hours eating and grazing. With 
 
 ## Map
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
+Most of the elephant population is found in eastern and sounthern Africa.
 <param ve-map center="Q36600" zoom="11" prefer-geojson>
 
 ## Multiple viewers
