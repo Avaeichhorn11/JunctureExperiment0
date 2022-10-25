@@ -40,6 +40,4 @@ Elephants are that largest living animals on Earth.
        manifest="https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg">
 <param ve-map center="Q36600" zoom="11">
 
-# References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
